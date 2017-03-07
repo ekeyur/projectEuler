@@ -12,5 +12,4 @@ for i in range(100,1000):
             num = num / 10
         if rev == n:
             palin.append(n)
-
-print max(palin)            
+print max(palin)
